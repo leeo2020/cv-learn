@@ -1,0 +1,12 @@
+**.exe
+**.ilk
+**.obj
+**.pdb
+**.lib
+**.dll
+**.o
+**.so
+**.i
+**.s
+build
+bin
